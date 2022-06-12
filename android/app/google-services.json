@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287145020543",
+    "project_id": "rentales-database-demo",
+    "storage_bucket": "rentales-database-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287145020543:android:643fca9db242f3bef5434a",
+        "android_client_info": {
+          "package_name": "com.example.rentales_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287145020543-c3k58k18oeqn30u4fc4p56b794q1r6j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_mjx6GC0QsCVSw37GXjmtuznY1kS6h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287145020543-c3k58k18oeqn30u4fc4p56b794q1r6j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
